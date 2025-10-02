@@ -1,6 +1,6 @@
 # financial-chatbot-aws
 financial ai agent in a chatbot in was
-# fin-chatbot-aws
+
 
 Cloud-native **Financial Q&A + Forecasting Chatbot** on AWS.  
 No installs on your Mac — deploy via **GitHub Actions (OIDC)**, use **SageMaker Studio** (browser) for the model endpoint, and host UI on **Amplify**.
